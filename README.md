@@ -4,7 +4,7 @@ A modern and responsive stopwatch web application built using **HTML**, **CSS**,
 
 ##  Live Demo
 
-🔗 https://ticktrack-js.netlify.app
+🔗 https://alishbanazim.github.io/stopwatch-web-app/
 
 ##  Features
 
